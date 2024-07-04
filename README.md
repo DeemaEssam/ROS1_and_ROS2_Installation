@@ -1,6 +1,6 @@
 ###USing Ubuntu mate 20.04
 
-***1_Installing ROS1***
+***1_Installing ROS1-neotic***
 
 
 using the commands 
@@ -33,7 +33,7 @@ sudo rosdep init
 rosdep update
 ```
 ***************************************************************************************************************************
-***2_installing ROS2***
+***2_installing ROS2-foxy***
 ```ruby
 locale  # check for UTF-8
 
