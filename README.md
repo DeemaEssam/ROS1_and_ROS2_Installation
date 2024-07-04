@@ -1,6 +1,8 @@
 ###USing Ubuntu mate 20.04
 
-**1_Installing ROS1**
+***1_Installing ROS1***
+
+
 using the commands 
 ```ruby
 sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
@@ -31,7 +33,7 @@ sudo rosdep init
 rosdep update
 ```
 ***************************************************************************************************************************
-**2_installing ROS2**
+***2_installing ROS2***
 ```ruby
 locale  # check for UTF-8
 
