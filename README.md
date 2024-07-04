@@ -1,3 +1,4 @@
+###USing Ubuntu mate 20.04
 **1_Installing ROS1**
 using the commands 
 ```ruby
@@ -22,7 +23,7 @@ sudo apt install python3-rosdep
 sudo rosdep init
 rosdep update
 ```
-
+*****************************************************************************************************8
 **2_installing ROS2**
 ```ruby
 locale  # check for UTF-8
